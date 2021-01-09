@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602104667 source:/home/pi/4seg_disp/main.cpp
+	"header.h"
+
+1602104375 /home/pi/4seg_disp/header.h
+	<iostream>
+	<fstream>
+	<wiringPi.h>
+
